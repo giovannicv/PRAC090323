@@ -1,0 +1,1 @@
+practicas html, css, solo esos 2 archivos con extencion .html y .css, jejeje nada comprlicado.
